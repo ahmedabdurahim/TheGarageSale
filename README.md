@@ -1,7 +1,7 @@
 # TheGarageSale
 
 
-simple consice explanation of how and what the code does. In detail description is available in the code notebook!
+simple concise explanation of how and what the code does. In detail description is available in the code notebook!
 
 
 The garage sale is meant to be an ecommerce platform for 3rd world countries where the use of telegram is prevelant than website visits. The case for this versions commit is Ethiopia hence the currency and categories refllect that.
